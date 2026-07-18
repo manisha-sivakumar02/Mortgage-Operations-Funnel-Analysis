@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+This project is a self-initiated Business Analyst case study created for learning and portfolio purposes. The company, stakeholders, business data, and interview findings are fictional but are designed to reflect realistic mortgage lending operations and standard Business Analysis practices
+
 This project simulates a Business Analyst engagement for a mortgage lender experiencing increased loan processing times and declining approval rates.
 
 The objective is to identify bottlenecks in the mortgage application funnel, analyze operational performance, and recommend process improvements.
